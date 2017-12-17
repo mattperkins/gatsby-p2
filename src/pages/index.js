@@ -2,7 +2,6 @@ import React from 'react'
 import Link from 'gatsby-link'
 import Header from './Header'
 import Footer from './Footer'
-import './style.css'
 
 const container = {
   padding:50
