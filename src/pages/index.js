@@ -1,7 +1,5 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import Header from './Header'
-import Footer from './Footer'
 
 const container = {
   padding:50
@@ -9,7 +7,7 @@ const container = {
 
 export default () => 
 <div>
-  <Header />
+  
 
   <div style={container}>
   <Link to="/subPages/page2">Go Page2</Link>
@@ -22,7 +20,7 @@ export default () =>
   
   </div>
 
-  <Footer />
+  
 </div>
 
 
