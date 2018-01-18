@@ -2,7 +2,7 @@ import React from 'react'
 
 const mastStyl = {
   color:"red",
-  backgroundColor:"yellow",
+  backgroundColor:"green",
   padding:20
 }
 

@@ -10,7 +10,6 @@ export default ({data}) => (<div>
   
   <div style={container}>
   <Link to="/">Home</Link>
-
   <h4>{data.site.siteMetadata.title}</h4>
   <h5>{data.site.siteMetadata.author}</h5>
   <h6>{data.site.siteMetadata.language}</h6>
